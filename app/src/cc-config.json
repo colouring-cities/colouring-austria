@@ -1,20 +1,15 @@
 {
     "cityName": "Austria",
-    "institution": "University of Graz",
+    "institution": "University of Graz, University of Salzburg, IT:U Linz",
     "projectBlurb": "Colouring Austria is part of Colouring Cities.",
-    
     "githubURL": "https://github.com/colouring-cities/colouring-core",
     "manualURL": "https://github.com/colouring-cities/manual/wiki/COLOURING-BRITAIN",
     "privacyStatement": "{Privacy statement goes here}",
-
     "initialMapPosition": [ 47.0707, 15.4395],
     "initialZoomLevel": 16,
-
     "postcode": "Postcode",
     "energy_rating": "",
-
     "bbox": [1697360.6337940574, 5930866.688088555, 1740318.2686937281, 5977187.4392017275],
-
     "basemapTileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
     "baseAttribution": "Building attribute data is © Colouring Cities contributors. Basemap © <a href=https://www.openstreetmap.org/copyright>OpenStreetMap contributors</a>. Building © MODIFY TO PROVIDE RELEVANT INFO"
 }
